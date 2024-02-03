@@ -1,0 +1,17 @@
+*{
+    font-family: 'sans-serif', monospace;
+}
+
+pre{
+    margin: 0;
+}
+
+.wrapper{
+    padding-top: 30vh;
+    margin: auto;
+    width: 320px;
+}
+
+.facts{
+    font-weight: bold;
+}
